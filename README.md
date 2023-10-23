@@ -54,7 +54,7 @@ Implementing these recommendations can help Syria Tel reduce churn, enhance cust
 
 ## For More Information
 
-Please review my full analysis in [[my Jupyter Notebook](./dsc-phase3-project.ipynb)](https://github.com/celestineolewe/dsc-phase-3-project-v2-3/blob/442756fc159fd2d43bb941705d692b0bab910588/presentation3.pdf) or our [presentation](./DS_Project_Presentation3.pdf).
+Please review my full analysis in (./dsc-phase3-project.ipynb)](https://github.com/celestineolewe/dsc-phase-3-project-v2-3/blob/442756fc159fd2d43bb941705d692b0bab910588/presentation3.pdf) or our [presentation](./DS_Project_Presentation3.pdf).
 
 For any additional questions, please contact **Celestine A. Imelda & celestineolewe@gmail.com **
 
