@@ -54,9 +54,9 @@ Implementing these recommendations can help Syria Tel reduce churn, enhance cust
 
 ## For More Information
 
-Please review my full analysis in [my Jupyter Notebook](./dsc-phase3-project.ipynb) or our [presentation](./DS_Project_Presentation3.pdf).
+Please review my full analysis in [[my Jupyter Notebook](./dsc-phase3-project.ipynb)](https://github.com/celestineolewe/dsc-phase-3-project-v2-3/blob/442756fc159fd2d43bb941705d692b0bab910588/presentation3.pdf) or our [presentation](./DS_Project_Presentation3.pdf).
 
-For any additional questions, please contact **name & email, name & email**
+For any additional questions, please contact **Celestine A. Imelda & celestineolewe@gmail.com **
 
 ## Repository Structure
 
@@ -65,8 +65,8 @@ Describe the structure of your repository and its contents, for example:
 ```
 ├── __init__.py                         <- .py file that signals to python these folders contain packages
 ├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── dsc-phase3-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── DS_Project_Presentation3.pdf         <- PDF version of project presentation
 ├── code
 │   ├── __init__.py                     <- .py file that signals to python these folders contain packages
 │   ├── visualizations.py               <- .py script to create finalized versions of visuals for project
